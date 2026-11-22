@@ -8,7 +8,8 @@ make a note: that's exactly what we want to hear about. You don't need to
 fix anything or understand why it happened.
 
 7F Miner runs on the 7fchain **testnet**, a test version of the network.
-Testnet coins have no money value, so nothing you do here can lose money.
+Testnet coins have no money value, so nothing you do here can lose money
+or win any money.
 
 ## Before you start
 
