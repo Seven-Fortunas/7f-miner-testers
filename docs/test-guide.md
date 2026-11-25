@@ -16,6 +16,8 @@ or win any money.
 - **Your PC:** Windows 10 version 22H2 or later, or Windows 11, 64-bit. To
   check, press the Windows key, type `winver` and press Enter.
 - **Your API key:** from your invitation email. The app asks for it once.
+  No key yet? Apply at https://forms.gle/exb8WDioMGVV1sds6; you can do
+  steps 1 to 3 while you wait.
 - **Paper and a pen:** to write down your 24 words (step 4).
 - **About an hour,** plus some time to leave it mining if you can.
 - **Screenshots:** press **Windows key + Shift + S** and drag over the part
@@ -36,12 +38,13 @@ or win any money.
 
 ## 1. Download
 
-1. Sign in to GitHub with the account that was invited to this repository.
-2. Open the
+1. Open the
    [Releases](https://github.com/Seven-Fortunas/7f-miner-testers/releases)
-   page and find the newest **7F Miner \<version\>** at the top.
-3. Under **Assets**, click `7F-Miner-<version>-setup.exe` to download it.
-   Ignore the other files. Only use files from this page.
+   page and find the newest **7F Miner \<version\>** at the top. The
+   download button on https://sevenfortunas.com/7fchain#windows gets the
+   same file.
+2. Under **Assets**, click `7F-Miner-<version>-setup.exe` to download it.
+   Ignore the other files. Only use files from these two places.
 
 - [ ] Note any warning from your browser or antivirus while downloading:
       write down the exact words or take a screenshot.

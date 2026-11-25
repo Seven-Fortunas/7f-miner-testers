@@ -1,4 +1,4 @@
-# 7F Miner for Windows: tester builds
+# 7F Miner for Windows: test builds
 
 Signed test builds of **7F Miner**, the Windows app that runs a 7fchain
 **testnet** node, wallet and miner in one window. It runs on Windows 10 22H2
@@ -6,15 +6,14 @@ or later (64-bit).
 
 It runs on testnet only: testnet coins have no money value.
 
-This repository is private and shared with a small number of invited
-testers. Please don't share the installer or this link with anyone else.
+7F Miner is in testing, and anyone can download it and help. To mine, you
+need an invitation: apply at https://forms.gle/exb8WDioMGVV1sds6.
 
 ## What you need
 
-- The GitHub account that was invited to this repository, signed in, to
-  download.
 - Your own testnet **API key**, from your invitation email. The app asks for
-  it once, to get your mining certificate. Keep it to yourself.
+  it once, to get your mining certificate. Keep it to yourself. You can
+  download and install while you wait for it.
 
 ## Download
 
